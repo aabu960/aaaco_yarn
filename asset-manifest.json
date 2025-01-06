@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aaaco_yarn/static/css/main.8bf23655.css",
-    "main.js": "/aaaco_yarn/static/js/main.31cb821e.js",
+    "main.js": "/aaaco_yarn/static/js/main.ffbb98cc.js",
     "static/media/cashewnut.png": "/aaaco_yarn/static/media/cashewnut.e978aea0aab7a369619c.png",
     "static/media/tructor.jpeg": "/aaaco_yarn/static/media/tructor.1a0d5c9535cf40bdb819.jpeg",
     "static/media/maize.jpeg": "/aaaco_yarn/static/media/maize.ef7f6fa75da471e895ee.jpeg",
@@ -30,10 +30,10 @@
     "static/media/chevron-left.svg": "/aaaco_yarn/static/media/chevron-left.c304e318a5678153928d062b2eb4f60c.svg",
     "static/media/chevron-right.svg": "/aaaco_yarn/static/media/chevron-right.5f62b7862a6ec631a77966c1e7d88721.svg",
     "main.8bf23655.css.map": "/aaaco_yarn/static/css/main.8bf23655.css.map",
-    "main.31cb821e.js.map": "/aaaco_yarn/static/js/main.31cb821e.js.map"
+    "main.ffbb98cc.js.map": "/aaaco_yarn/static/js/main.ffbb98cc.js.map"
   },
   "entrypoints": [
     "static/css/main.8bf23655.css",
-    "static/js/main.31cb821e.js"
+    "static/js/main.ffbb98cc.js"
   ]
 }
